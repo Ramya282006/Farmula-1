@@ -21,3 +21,4 @@ Thumbs.db
 *.csv
 *.xlsx
 *.parquet
+data/

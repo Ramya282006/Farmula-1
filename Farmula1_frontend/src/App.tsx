@@ -6,7 +6,7 @@ import { AdminLoginPage } from "./components/AdminLoginPage";
 import { FarmerSignupPage } from "./components/FarmerSignupPage";
 import { LandingPage } from "./components/LandingPage";
 import { FarmerDashboard } from "./components/FarmerDashboard";
-import { ChatbotPage } from "./components/ChatbotPage";
+import ChatbotPage from "./components/ChatbotPage";
 import { DiseaseDetectionPage } from "./components/DiseaseDetectionPage";
 import { AdminDashboard } from "./components/AdminDashboard";
 import { EcommercePage } from "./components/EcommercePage";
